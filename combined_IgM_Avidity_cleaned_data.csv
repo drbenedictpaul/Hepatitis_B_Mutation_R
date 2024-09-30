@@ -1,0 +1,929 @@
+Mutation,Category,Count,Region,Measurement
+A7T,>8.5%,8,RT Region,IgM
+D7A,>8.5%,4,RT Region,IgM
+A7D,>8.5%,4,RT Region,IgM
+A7E,>8.5%,4,RT Region,IgM
+H9Y,>8.5%,4,RT Region,IgM
+A11G,>8.5%,0,Core Region,IgM
+S11C,>8.5%,0,PreCore Region,IgM
+A11D,>8.5%,3,Core Region,IgM
+S11F,>8.5%,14,PreCore Region,IgM
+T12I,>8.5%,0,Core Region,IgM
+C12R,>8.5%,0,PreCore Region,IgM
+T12S,>8.5%,10,Core Region,IgM
+P15R,>8.5%,3,PreCore Region,IgM
+S21F,>8.5%,3,Core Region,IgM
+A21S,>8.5%,4,RT Region,IgM
+S21Q,>8.5%,3,Core Region,IgM
+S21T,>8.5%,3,Core Region,IgM
+D22E,>8.5%,3,Core Region,IgM
+L22M,>8.5%,3,PreCore Region,IgM
+R28Q,>8.5%,3,Core Region,IgM
+G29D,>8.5%,21,PreCore Region,IgM
+Q30K,>8.5%,8,SHB Region,IgM
+L31F,>8.5%,0,Core Region,IgM
+S31N,>8.5%,4,SHB Region,IgM
+A34P,>8.5%,0,Core Region,IgM
+S35A,>8.5%,7,Core Region,IgM
+A36P,>8.5%,0,Core Region,IgM
+A38T,>8.5%,0,RT Region,IgM
+Y38F,>8.5%,3,Core Region,IgM
+A38S,>8.5%,4,RT Region,IgM
+A38E,>8.5%,12,RT Region,IgM
+E40D,>8.5%,10,Core Region,IgM
+A41G,>8.5%,3,Core Region,IgM
+E43K,>8.5%,3,Core Region,IgM
+S49T,>8.5%,0,Core Region,IgM
+N53D,>8.5%,85,RT Region,IgM
+Q54R,>8.5%,4,SHB Region,IgM
+Y54H,>8.5%,85,RT Region,IgM
+T57I,>8.5%,4,SHB Region,IgM
+I59V,>8.5%,3,Core Region,IgM
+I59F,>8.5%,3,Core Region,IgM
+L60I,>8.5%,3,Core Region,IgM
+C61W,>8.5%,3,Core Region,IgM
+E64D,>8.5%,3,Core Region,IgM
+N74G,>8.5%,7,Core Region,IgM
+N74T,>8.5%,7,Core Region,IgM
+N74A,>8.5%,7,Core Region,IgM
+N74V,>8.5%,79,Core Region,IgM
+N76D,>8.5%,0,RT Region,IgM
+E77Q,>8.5%,3,Core Region,IgM
+P79Q,>8.5%,7,Core Region,IgM
+A80T,>8.5%,7,Core Region,IgM
+L84Q,>8.5%,3,Core Region,IgM
+L84Q,>8.5%,3,Core Region,IgM
+V85E,>8.5%,3,Core Region,IgM
+N87S,>8.5%,100,Core Region,IgM
+L91I,>8.5%,4,RT Region,IgM
+N92H,>8.5%,3,Core Region,IgM
+F93S,>8.5%,4,SHB Region,IgM
+I97F,>8.5%,100,Core Region,IgM
+L100R,>8.5%,3,Core Region,IgM
+Q101H,>8.5%,4,SHB Region,IgM
+W102G,>8.5%,10,Core Region,IgM
+S106F,>8.5%,3,Core Region,IgM
+R112K,>8.5%,3,Core Region,IgM
+S113A,>8.5%,4,SHB Region,IgM
+E113Q,>8.5%,10,Core Region,IgM
+E113K,>8.5%,3,Core Region,IgM
+L115V,>8.5%,4,RT Region,IgM
+L116I,>8.5%,86,Core Region,IgM
+N118D,>8.5%,8,RT Region,IgM
+T118V,>8.5%,69,SHB Region,IgM
+T118A,>8.5%,8,SHB Region,IgM
+L119F,>8.5%,3,Core Region,IgM
+V120G,>8.5%,3,Core Region,IgM
+I121S,>8.5%,4,RT Region,IgM
+I121IS,>8.5%,4,RT Region,IgM
+F122L,>8.5%,4,RT Region,IgM
+N122H,>8.5%,4,RT Region,IgM
+R122K,>8.5%,4,SHB Region,IgM
+N123D,>8.5%,8,RT Region,IgM
+T125M,>8.5%,8,SHB Region,IgM
+H126R,>8.5%,77,RT Region,IgM
+I126IS,>8.5%,0,Core Region,IgM
+I126V,>8.5%,3,Core Region,IgM
+G127GW,>8.5%,4,RT Region,IgM
+T127P,>8.5%,4,SHB Region,IgM
+T127A,>8.5%,4,SHB Region,IgM
+T127L,>8.5%,4,SHB Region,IgM
+R127G,>8.5%,3,Core Region,IgM
+R127S,>8.5%,0,Core Region,IgM
+A128V,>8.5%,81,SHB Region,IgM
+M129L,>8.5%,8,RT Region,IgM
+Q130P,>8.5%,4,RT Region,IgM
+N131D,>8.5%,8,RT Region,IgM
+A131P,>8.5%,3,Core Region,IgM
+N131H,>8.5%,4,RT Region,IgM
+M133T,>8.5%,4,SHB Region,IgM
+Y135D,>8.5%,4,RT Region,IgM
+Y135S,>8.5%,8,RT Region,IgM
+Y135C,>8.5%,4,RT Region,IgM
+P138R,>8.5%,3,Core Region,IgM
+I139F,>8.5%,3,Core Region,IgM
+I139F,>8.5%,3,Core Region,IgM
+I139S,>8.5%,3,Core Region,IgM
+L140F,>8.5%,8,RT Region,IgM
+L140F,>8.5%,3,Core Region,IgM
+T142IT,>8.5%,0,Core Region,IgM
+G145R,>8.5%,4,SHB Region,IgM
+Q149KQ,>8.5%,4,RT Region,IgM
+I150F,>8.5%,4,SHB Region,IgM
+R152QR,>8.5%,3,Core Region,IgM
+D153,>8.5%,7,Core Region,IgM
+R153Q,>8.5%,4,RT Region,IgM
+D153G,>8.5%,14,Core Region,IgM
+R154,>8.5%,21,Core Region,IgM
+R154Q,>8.5%,3,Core Region,IgM
+G155S,>8.5%,3,Core Region,IgM
+Y158F,>8.5%,4,RT Region,IgM
+G159A,>8.5%,4,SHB Region,IgM
+R159K,>8.5%,10,Core Region,IgM
+K160N,>8.5%,4,SHB Region,IgM
+R160K,>8.5%,3,Core Region,IgM
+V163I,>8.5%,4,RT Region,IgM
+I169L,>8.5%,4,RT Region,IgM
+R169V,>8.5%,4,SHB Region,IgM
+P170S,>8.5%,4,RT Region,IgM
+F170S,>8.5%,4,SHB Region,IgM
+V177L,>8.5%,15,SHB Region,IgM
+V177LV,>8.5%,4,SHB Region,IgM
+P177R,>8.5%,4,RT Region,IgM
+F178L,>8.5%,4,RT Region,IgM
+F183I,>8.5%,4,SHB Region,IgM
+S185T,>8.5%,15,RT Region,IgM
+G185R,>8.5%,4,SHB Region,IgM
+S185ST,>8.5%,4,RT Region,IgM
+T189I,>8.5%,8,SHB Region,IgM
+V191D,>8.5%,4,RT Region,IgM
+V191I,>8.5%,0,RT Region,IgM
+R192C,>8.5%,4,RT Region,IgM
+R193K,>8.5%,4,RT Region,IgM
+P203L,>8.5%,4,SHB Region,IgM
+S204N,>8.5%,4,SHB Region,IgM
+S207N,>8.5%,4,SHB Region,IgM
+S207R,>8.5%,0,SHB Region,IgM
+I208T,>8.5%,4,SHB Region,IgM
+Q215S,>8.5%,0,RT Region,IgM
+L216,>8.5%,4,SHB Region,IgM
+P217L,>8.5%,4,SHB Region,IgM
+F220L,>8.5%,4,SHB Region,IgM
+C221Y,>8.5%,4,SHB Region,IgM
+V224A,>8.5%,4,SHB Region,IgM
+L229M,>8.5%,4,RT Region,IgM
+N238H,>8.5%,0,RT Region,IgM
+N248H,>8.5%,15,RT Region,IgM
+I253V,>8.5%,4,RT Region,IgM
+G255D,>8.5%,4,RT Region,IgM
+Y257W,>8.5%,8,RT Region,IgM
+D263E,>8.5%,12,RT Region,IgM
+I266T,>8.5%,4,RT Region,IgM
+I266R,>8.5%,19,RT Region,IgM
+Q267H,>8.5%,8,RT Region,IgM
+I269L,>8.5%,8,RT Region,IgM
+E271D,>8.5%,4,RT Region,IgM
+V278I,>8.5%,4,RT Region,IgM
+P299R,>8.5%,4,RT Region,IgM
+M309K,>8.5%,4,RT Region,IgM
+Q316H,>8.5%,15,RT Region,IgM
+S317A,>8.5%,8,RT Region,IgM
+T322S,>8.5%,4,RT Region,IgM
+P325R,>8.5%,0,RT Region,IgM
+P325Q,>8.5%,4,RT Region,IgM
+T326L,>8.5%,4,RT Region,IgM
+Y327Q,>8.5%,4,RT Region,IgM
+K328A,>8.5%,4,RT Region,IgM
+A329F,>8.5%,4,RT Region,IgM
+A329T,>8.5%,0,RT Region,IgM
+F330C,>8.5%,4,RT Region,IgM
+L331LV,>8.5%,0,RT Region,IgM
+L331R,>8.5%,4,RT Region,IgM
+L331V,>8.5%,8,RT Region,IgM
+C332G,>8.5%,4,RT Region,IgM
+C332Y,>8.5%,4,RT Region,IgM
+C332T,>8.5%,4,RT Region,IgM
+K333A,>8.5%,0,RT Region,IgM
+K333I,>8.5%,4,RT Region,IgM
+Q334L,>8.5%,4,RT Region,IgM
+Q334H,>8.5%,4,RT Region,IgM
+Q334I,>8.5%,0,RT Region,IgM
+Y335N,>8.5%,4,RT Region,IgM
+Y335L,>8.5%,0,RT Region,IgM
+L336V,>8.5%,4,RT Region,IgM
+L336M,>8.5%,8,RT Region,IgM
+L336I,>8.5%,0,RT Region,IgM
+N337H,>8.5%,4,RT Region,IgM
+N337L,>8.5%,0,RT Region,IgM
+N337T,>8.5%,4,RT Region,IgM
+L338D,>8.5%,4,RT Region,IgM
+Y339H,>8.5%,4,RT Region,IgM
+Y339V,>8.5%,0,RT Region,IgM
+Y339A,>8.5%,4,RT Region,IgM
+Y339C,>8.5%,4,RT Region,IgM
+P340G,>8.5%,4,RT Region,IgM
+P340A,>8.5%,0,RT Region,IgM
+V341G,>8.5%,0,RT Region,IgM
+V341T,>8.5%,4,RT Region,IgM
+A342T,>8.5%,0,RT Region,IgM
+R343D,>8.5%,0,RT Region,IgM
+Q344S,>8.5%,4,RT Region,IgM
+A7T,<8.5%,0,RT Region,IgM
+D7A,<8.5%,0,RT Region,IgM
+A7D,<8.5%,0,RT Region,IgM
+A7E,<8.5%,0,RT Region,IgM
+H9Y,<8.5%,0,RT Region,IgM
+A11G,<8.5%,17,Core Region,IgM
+S11C,<8.5%,17,PreCore Region,IgM
+A11D,<8.5%,0,Core Region,IgM
+S11F,<8.5%,17,PreCore Region,IgM
+T12I,<8.5%,17,Core Region,IgM
+C12R,<8.5%,17,PreCore Region,IgM
+T12S,<8.5%,17,Core Region,IgM
+P15R,<8.5%,0,PreCore Region,IgM
+S21F,<8.5%,0,Core Region,IgM
+A21S,<8.5%,0,RT Region,IgM
+S21Q,<8.5%,0,Core Region,IgM
+S21T,<8.5%,17,Core Region,IgM
+D22E,<8.5%,0,Core Region,IgM
+L22M,<8.5%,0,PreCore Region,IgM
+R28Q,<8.5%,0,Core Region,IgM
+G29D,<8.5%,33,PreCore Region,IgM
+Q30K,<8.5%,0,SHB Region,IgM
+L31F,<8.5%,17,Core Region,IgM
+S31N,<8.5%,0,SHB Region,IgM
+A34P,<8.5%,17,Core Region,IgM
+S35A,<8.5%,0,Core Region,IgM
+A36P,<8.5%,17,Core Region,IgM
+A38T,<8.5%,33,RT Region,IgM
+Y38F,<8.5%,0,Core Region,IgM
+A38S,<8.5%,0,RT Region,IgM
+A38E,<8.5%,0,RT Region,IgM
+E40D,<8.5%,17,Core Region,IgM
+A41G,<8.5%,0,Core Region,IgM
+E43K,<8.5%,0,Core Region,IgM
+S49T,<8.5%,17,Core Region,IgM
+N53D,<8.5%,100,RT Region,IgM
+Q54R,<8.5%,0,SHB Region,IgM
+Y54H,<8.5%,100,RT Region,IgM
+T57I,<8.5%,0,SHB Region,IgM
+I59V,<8.5%,0,Core Region,IgM
+I59F,<8.5%,0,Core Region,IgM
+L60I,<8.5%,0,Core Region,IgM
+C61W,<8.5%,0,Core Region,IgM
+E64D,<8.5%,0,Core Region,IgM
+N74G,<8.5%,0,Core Region,IgM
+N74T,<8.5%,0,Core Region,IgM
+N74A,<8.5%,17,Core Region,IgM
+N74V,<8.5%,83,Core Region,IgM
+N76D,<8.5%,33,RT Region,IgM
+E77Q,<8.5%,17,Core Region,IgM
+P79Q,<8.5%,0,Core Region,IgM
+A80T,<8.5%,0,Core Region,IgM
+L84Q,<8.5%,17,Core Region,IgM
+L84Q,<8.5%,17,Core Region,IgM
+V85E,<8.5%,0,Core Region,IgM
+N87S,<8.5%,100,Core Region,IgM
+L91I,<8.5%,0,RT Region,IgM
+N92H,<8.5%,0,Core Region,IgM
+F93S,<8.5%,0,SHB Region,IgM
+I97F,<8.5%,100,Core Region,IgM
+L100R,<8.5%,0,Core Region,IgM
+Q101H,<8.5%,0,SHB Region,IgM
+W102G,<8.5%,0,Core Region,IgM
+S106F,<8.5%,0,Core Region,IgM
+R112K,<8.5%,17,Core Region,IgM
+S113A,<8.5%,0,SHB Region,IgM
+E113Q,<8.5%,17,Core Region,IgM
+E113K,<8.5%,0,Core Region,IgM
+L115V,<8.5%,0,RT Region,IgM
+L116I,<8.5%,83,Core Region,IgM
+N118D,<8.5%,0,RT Region,IgM
+T118V,<8.5%,100,SHB Region,IgM
+T118A,<8.5%,0,SHB Region,IgM
+L119F,<8.5%,0,Core Region,IgM
+V120G,<8.5%,0,Core Region,IgM
+I121S,<8.5%,0,RT Region,IgM
+I121IS,<8.5%,0,RT Region,IgM
+F122L,<8.5%,0,RT Region,IgM
+N122H,<8.5%,0,RT Region,IgM
+R122K,<8.5%,0,SHB Region,IgM
+N123D,<8.5%,0,RT Region,IgM
+T125M,<8.5%,0,SHB Region,IgM
+H126R,<8.5%,100,RT Region,IgM
+I126IS,<8.5%,17,Core Region,IgM
+I126V,<8.5%,0,Core Region,IgM
+G127GW,<8.5%,0,RT Region,IgM
+T127P,<8.5%,0,SHB Region,IgM
+T127A,<8.5%,0,SHB Region,IgM
+T127L,<8.5%,0,SHB Region,IgM
+R127G,<8.5%,0,Core Region,IgM
+R127S,<8.5%,17,Core Region,IgM
+A128V,<8.5%,100,SHB Region,IgM
+M129L,<8.5%,0,RT Region,IgM
+Q130P,<8.5%,0,RT Region,IgM
+N131D,<8.5%,0,RT Region,IgM
+A131P,<8.5%,0,Core Region,IgM
+N131H,<8.5%,0,RT Region,IgM
+M133T,<8.5%,0,SHB Region,IgM
+Y135D,<8.5%,0,RT Region,IgM
+Y135S,<8.5%,0,RT Region,IgM
+Y135C,<8.5%,0,RT Region,IgM
+P138R,<8.5%,0,Core Region,IgM
+I139F,<8.5%,17,Core Region,IgM
+I139F,<8.5%,17,Core Region,IgM
+I139S,<8.5%,0,Core Region,IgM
+L140F,<8.5%,0,RT Region,IgM
+L140F,<8.5%,0,Core Region,IgM
+T142IT,<8.5%,17,Core Region,IgM
+G145R,<8.5%,0,SHB Region,IgM
+Q149KQ,<8.5%,0,RT Region,IgM
+I150F,<8.5%,0,SHB Region,IgM
+R152QR,<8.5%,0,Core Region,IgM
+D153,<8.5%,17,Core Region,IgM
+R153Q,<8.5%,0,RT Region,IgM
+D153G,<8.5%,17,Core Region,IgM
+R154,<8.5%,33,Core Region,IgM
+R154Q,<8.5%,0,Core Region,IgM
+G155S,<8.5%,17,Core Region,IgM
+Y158F,<8.5%,0,RT Region,IgM
+G159A,<8.5%,0,SHB Region,IgM
+R159K,<8.5%,0,Core Region,IgM
+K160N,<8.5%,0,SHB Region,IgM
+R160K,<8.5%,0,Core Region,IgM
+V163I,<8.5%,0,RT Region,IgM
+I169L,<8.5%,0,RT Region,IgM
+R169V,<8.5%,0,SHB Region,IgM
+P170S,<8.5%,0,RT Region,IgM
+F170S,<8.5%,0,SHB Region,IgM
+V177L,<8.5%,0,SHB Region,IgM
+V177LV,<8.5%,0,SHB Region,IgM
+P177R,<8.5%,0,RT Region,IgM
+F178L,<8.5%,0,RT Region,IgM
+F183I,<8.5%,0,SHB Region,IgM
+S185T,<8.5%,0,RT Region,IgM
+G185R,<8.5%,0,SHB Region,IgM
+S185ST,<8.5%,0,RT Region,IgM
+T189I,<8.5%,33,SHB Region,IgM
+V191D,<8.5%,0,RT Region,IgM
+V191I,<8.5%,33,RT Region,IgM
+R192C,<8.5%,0,RT Region,IgM
+R193K,<8.5%,0,RT Region,IgM
+P203L,<8.5%,0,SHB Region,IgM
+S204N,<8.5%,0,SHB Region,IgM
+S207N,<8.5%,0,SHB Region,IgM
+S207R,<8.5%,33,SHB Region,IgM
+I208T,<8.5%,0,SHB Region,IgM
+Q215S,<8.5%,33,RT Region,IgM
+L216,<8.5%,0,SHB Region,IgM
+P217L,<8.5%,0,SHB Region,IgM
+F220L,<8.5%,0,SHB Region,IgM
+C221Y,<8.5%,0,SHB Region,IgM
+V224A,<8.5%,0,SHB Region,IgM
+L229M,<8.5%,0,RT Region,IgM
+N238H,<8.5%,33,RT Region,IgM
+N248H,<8.5%,0,RT Region,IgM
+I253V,<8.5%,0,RT Region,IgM
+G255D,<8.5%,0,RT Region,IgM
+Y257W,<8.5%,0,RT Region,IgM
+D263E,<8.5%,0,RT Region,IgM
+I266T,<8.5%,0,RT Region,IgM
+I266R,<8.5%,0,RT Region,IgM
+Q267H,<8.5%,0,RT Region,IgM
+I269L,<8.5%,0,RT Region,IgM
+E271D,<8.5%,0,RT Region,IgM
+V278I,<8.5%,0,RT Region,IgM
+P299R,<8.5%,0,RT Region,IgM
+M309K,<8.5%,0,RT Region,IgM
+Q316H,<8.5%,0,RT Region,IgM
+S317A,<8.5%,0,RT Region,IgM
+T322S,<8.5%,0,RT Region,IgM
+P325R,<8.5%,33,RT Region,IgM
+P325Q,<8.5%,0,RT Region,IgM
+T326L,<8.5%,0,RT Region,IgM
+Y327Q,<8.5%,0,RT Region,IgM
+K328A,<8.5%,0,RT Region,IgM
+A329F,<8.5%,0,RT Region,IgM
+A329T,<8.5%,33,RT Region,IgM
+F330C,<8.5%,0,RT Region,IgM
+L331LV,<8.5%,33,RT Region,IgM
+L331R,<8.5%,0,RT Region,IgM
+L331V,<8.5%,0,RT Region,IgM
+C332G,<8.5%,0,RT Region,IgM
+C332Y,<8.5%,0,RT Region,IgM
+C332T,<8.5%,0,RT Region,IgM
+K333A,<8.5%,33,RT Region,IgM
+K333I,<8.5%,0,RT Region,IgM
+Q334L,<8.5%,0,RT Region,IgM
+Q334H,<8.5%,0,RT Region,IgM
+Q334I,<8.5%,33,RT Region,IgM
+Y335N,<8.5%,0,RT Region,IgM
+Y335L,<8.5%,33,RT Region,IgM
+L336V,<8.5%,0,RT Region,IgM
+L336M,<8.5%,0,RT Region,IgM
+L336I,<8.5%,33,RT Region,IgM
+N337H,<8.5%,0,RT Region,IgM
+N337L,<8.5%,33,RT Region,IgM
+N337T,<8.5%,0,RT Region,IgM
+L338D,<8.5%,0,RT Region,IgM
+Y339H,<8.5%,0,RT Region,IgM
+Y339V,<8.5%,33,RT Region,IgM
+Y339A,<8.5%,0,RT Region,IgM
+Y339C,<8.5%,0,RT Region,IgM
+P340G,<8.5%,0,RT Region,IgM
+P340A,<8.5%,33,RT Region,IgM
+V341G,<8.5%,33,RT Region,IgM
+V341T,<8.5%,0,RT Region,IgM
+A342T,<8.5%,33,RT Region,IgM
+R343D,<8.5%,33,RT Region,IgM
+Q344S,<8.5%,0,RT Region,IgM
+Mutation,<0.46%,<0.46_%,RT,Avidity
+S185T,<0.46%,16,RT,Avidity
+Q316H,<0.46%,16,RT,Avidity
+M129L,<0.46%,0,RT,Avidity
+L140F,<0.46%,8,RT,Avidity
+N131D,<0.46%,4,RT,Avidity
+D263E,<0.46%,12,RT,Avidity
+H126R,<0.46%,80,RT,Avidity
+Y135S,<0.46%,8,RT,Avidity
+N123D,<0.46%,8,RT,Avidity
+Y257W,<0.46%,8,RT,Avidity
+Q267H,<0.46%,8,RT,Avidity
+I269L,<0.46%,8,RT,Avidity
+S317A,<0.46%,8,RT,Avidity
+L336M,<0.46%,8,RT,Avidity
+H126[n.d.],<0.46%,8,RT,Avidity
+L91I,<0.46%,0,RT,Avidity
+Y158F,<0.46%,0,RT,Avidity
+P177R,<0.46%,0,RT,Avidity
+V191D,<0.46%,0,RT,Avidity
+R192C,<0.46%,0,RT,Avidity
+E271D,<0.46%,0,RT,Avidity
+Q334H,<0.46%,0,RT,Avidity
+L331R,<0.46%,4,RT,Avidity
+C332G,<0.46%,4,RT,Avidity
+Y339C,<0.46%,4,RT,Avidity
+R193K,<0.46%,4,RT,Avidity
+M309K,<0.46%,4,RT,Avidity
+N76D,<0.46%,0,RT,Avidity
+V191I,<0.46%,0,RT,Avidity
+Q215S,<0.46%,0,RT,Avidity
+N238H,<0.46%,0,RT,Avidity
+Y135D,<0.46%,0,RT,Avidity
+L229M,<0.46%,0,RT,Avidity
+T322S,<0.46%,0,RT,Avidity
+Y339H,<0.46%,0,RT,Avidity
+L115V,<0.46%,4,RT,Avidity
+Y135C,<0.46%,4,RT,Avidity
+I169L,<0.46%,4,RT,Avidity
+A38S,<0.46%,4,RT,Avidity
+N337H,<0.46%,4,RT,Avidity
+P299R,<0.46%,4,RT,Avidity
+D7A,<0.46%,0,RT,Avidity
+N122H,<0.46%,0,RT,Avidity
+V163I,<0.46%,0,RT,Avidity
+I253V,<0.46%,0,RT,Avidity
+V278I,<0.46%,0,RT,Avidity
+I266R,<0.46%,16,RT,Avidity
+A38E,<0.46%,8,RT,Avidity
+R153Q,<0.46%,4,RT,Avidity
+F122L,<0.46%,4,RT,Avidity
+Q130P,<0.46%,4,RT,Avidity
+N131H,<0.46%,4,RT,Avidity
+G255D,<0.46%,4,RT,Avidity
+I266T,<0.46%,4,RT,Avidity
+A38T,<0.46%,4,RT,Avidity
+A7E,<0.46%,4,RT,Avidity
+A21S,<0.46%,4,RT,Avidity
+H9Y,<0.46%,4,RT,Avidity
+A7D,<0.46%,4,RT,Avidity
+I121S,<0.46%,4,RT,Avidity
+G127GW,<0.46%,4,RT,Avidity
+P170S,<0.46%,4,RT,Avidity
+F178L,<0.46%,4,RT,Avidity
+P325R,<0.46%,4,RT,Avidity
+A329T,<0.46%,4,RT,Avidity
+L331LV,<0.46%,4,RT,Avidity
+K333A,<0.46%,4,RT,Avidity
+Q334I,<0.46%,4,RT,Avidity
+Y335L,<0.46%,4,RT,Avidity
+L336I,<0.46%,4,RT,Avidity
+N337L,<0.46%,4,RT,Avidity
+Y339V,<0.46%,4,RT,Avidity
+P340A,<0.46%,4,RT,Avidity
+V341G,<0.46%,4,RT,Avidity
+A342T,<0.46%,4,RT,Avidity
+R343D,<0.46%,4,RT,Avidity
+C332Y,<0.46%,4,RT,Avidity
+N53D,<0.46%,88,RT,Avidity
+Y54H,<0.46%,88,RT,Avidity
+N248H,<0.46%,16,RT,Avidity
+A7T,<0.46%,12,RT,Avidity
+N118D,<0.46%,4,RT,Avidity
+L331V,<0.46%,8,RT,Avidity
+T150[n.d.],<0.46%,4,RT,Avidity
+K268[n.d.],<0.46%,4,RT,Avidity
+R274[n.d.],<0.46%,4,RT,Avidity
+P310[n.d.],<0.46%,4,RT,Avidity
+Q316[n.d.],<0.46%,8,RT,Avidity
+K318[n.d.],<0.46%,8,RT,Avidity
+A320[n.d.],<0.46%,4,RT,Avidity
+P325Q,<0.46%,4,RT,Avidity
+T326L,<0.46%,4,RT,Avidity
+Y327Q,<0.46%,4,RT,Avidity
+K328A,<0.46%,4,RT,Avidity
+A329F,<0.46%,4,RT,Avidity
+F330C,<0.46%,4,RT,Avidity
+C332T,<0.46%,4,RT,Avidity
+K333I,<0.46%,4,RT,Avidity
+Q334L,<0.46%,4,RT,Avidity
+Y335N,<0.46%,4,RT,Avidity
+L336V,<0.46%,4,RT,Avidity
+N337T,<0.46%,4,RT,Avidity
+L338D,<0.46%,4,RT,Avidity
+Y339A,<0.46%,4,RT,Avidity
+P340G,<0.46%,4,RT,Avidity
+V341T,<0.46%,4,RT,Avidity
+Q344S,<0.46%,4,RT,Avidity
+L145[n.d.],<0.46%,4,RT,Avidity
+R167[n.d.],<0.46%,4,RT,Avidity
+L179[n.d.],<0.46%,4,RT,Avidity
+R242[n.d.],<0.46%,4,RT,Avidity
+G292[n.d.],<0.46%,4,RT,Avidity
+L308[n.d.],<0.46%,4,RT,Avidity
+M309[n.d.],<0.46%,4,RT,Avidity
+F323[n.d.],<0.46%,4,RT,Avidity
+Y327[n.d.],<0.46%,4,RT,Avidity
+C332*,<0.46%,16,RT,Avidity
+I121IS,<0.46%,4,RT,Avidity
+Q149KQ,<0.46%,4,RT,Avidity
+G174[n.d.],<0.46%,4,RT,Avidity
+A186[n.d.],<0.46%,4,RT,Avidity
+Y257*,<0.46%,8,RT,Avidity
+I169[n.d.],<0.46%,0,RT,Avidity
+R192[n.d.],<0.46%,0,RT,Avidity
+S185ST,<0.46%,4,RT,Avidity
+Mutation,>0.46%,>0.46_%,RT,Avidity
+S185T,>0.46%,0 ,RT,Avidity
+Q316H,>0.46%,0 ,RT,Avidity
+M129L,>0.46%,33 ,RT,Avidity
+L140F,>0.46%,0 ,RT,Avidity
+N131D,>0.46%,0 ,RT,Avidity
+D263E,>0.46%,0 ,RT,Avidity
+H126R,>0.46%,100 ,RT,Avidity
+Y135S,>0.46%,0 ,RT,Avidity
+N123D,>0.46%,0 ,RT,Avidity
+Y257W,>0.46%,0 ,RT,Avidity
+Q267H,>0.46%,0 ,RT,Avidity
+I269L,>0.46%,0 ,RT,Avidity
+S317A,>0.46%,0 ,RT,Avidity
+L336M,>0.46%,0 ,RT,Avidity
+H126[n.d.],>0.46%,0 ,RT,Avidity
+L91I,>0.46%,33 ,RT,Avidity
+Y158F,>0.46%,33 ,RT,Avidity
+P177R,>0.46%,33 ,RT,Avidity
+V191D,>0.46%,33 ,RT,Avidity
+R192C,>0.46%,33 ,RT,Avidity
+E271D,>0.46%,33 ,RT,Avidity
+Q334H,>0.46%,33 ,RT,Avidity
+L331R,>0.46%,0 ,RT,Avidity
+C332G,>0.46%,0 ,RT,Avidity
+Y339C,>0.46%,0 ,RT,Avidity
+R193K,>0.46%,0 ,RT,Avidity
+M309K,>0.46%,0 ,RT,Avidity
+N76D,>0.46%,33 ,RT,Avidity
+V191I,>0.46%,33 ,RT,Avidity
+Q215S,>0.46%,33 ,RT,Avidity
+N238H,>0.46%,33 ,RT,Avidity
+Y135D,>0.46%,33 ,RT,Avidity
+L229M,>0.46%,33 ,RT,Avidity
+T322S,>0.46%,33 ,RT,Avidity
+Y339H,>0.46%,33 ,RT,Avidity
+L115V,>0.46%,0 ,RT,Avidity
+Y135C,>0.46%,0 ,RT,Avidity
+I169L,>0.46%,0 ,RT,Avidity
+A38S,>0.46%,0 ,RT,Avidity
+N337H,>0.46%,0 ,RT,Avidity
+P299R,>0.46%,0 ,RT,Avidity
+D7A,>0.46%,0 ,RT,Avidity
+N122H,>0.46%,0 ,RT,Avidity
+V163I,>0.46%,0 ,RT,Avidity
+I253V,>0.46%,0 ,RT,Avidity
+V278I,>0.46%,0 ,RT,Avidity
+I266R,>0.46%,33 ,RT,Avidity
+A38E,>0.46%,33 ,RT,Avidity
+R153Q,>0.46%,0 ,RT,Avidity
+F122L,>0.46%,0 ,RT,Avidity
+Q130P,>0.46%,0 ,RT,Avidity
+N131H,>0.46%,0 ,RT,Avidity
+G255D,>0.46%,0 ,RT,Avidity
+I266T,>0.46%,0 ,RT,Avidity
+A38T,>0.46%,0 ,RT,Avidity
+A7E,>0.46%,0 ,RT,Avidity
+A21S,>0.46%,0 ,RT,Avidity
+H9Y,>0.46%,0 ,RT,Avidity
+A7D,>0.46%,0 ,RT,Avidity
+I121S,>0.46%,0 ,RT,Avidity
+G127GW,>0.46%,0 ,RT,Avidity
+P170S,>0.46%,0 ,RT,Avidity
+F178L,>0.46%,0 ,RT,Avidity
+P325R,>0.46%,0 ,RT,Avidity
+A329T,>0.46%,0 ,RT,Avidity
+L331LV,>0.46%,0 ,RT,Avidity
+K333A,>0.46%,0 ,RT,Avidity
+Q334I,>0.46%,0 ,RT,Avidity
+Y335L,>0.46%,0 ,RT,Avidity
+L336I,>0.46%,0 ,RT,Avidity
+N337L,>0.46%,0 ,RT,Avidity
+Y339V,>0.46%,0 ,RT,Avidity
+P340A,>0.46%,0 ,RT,Avidity
+V341G,>0.46%,0 ,RT,Avidity
+A342T,>0.46%,0 ,RT,Avidity
+R343D,>0.46%,0 ,RT,Avidity
+C332Y,>0.46%,0 ,RT,Avidity
+N53D,>0.46%,100 ,RT,Avidity
+Y54H,>0.46%,100 ,RT,Avidity
+N248H,>0.46%,0 ,RT,Avidity
+A7T,>0.46%,0 ,RT,Avidity
+N118D,>0.46%,33 ,RT,Avidity
+L331V,>0.46%,0 ,RT,Avidity
+T150[n.d.],>0.46%,0 ,RT,Avidity
+K268[n.d.],>0.46%,0 ,RT,Avidity
+R274[n.d.],>0.46%,0 ,RT,Avidity
+P310[n.d.],>0.46%,0 ,RT,Avidity
+Q316[n.d.],>0.46%,0 ,RT,Avidity
+K318[n.d.],>0.46%,0 ,RT,Avidity
+A320[n.d.],>0.46%,0 ,RT,Avidity
+P325Q,>0.46%,0 ,RT,Avidity
+T326L,>0.46%,0 ,RT,Avidity
+Y327Q,>0.46%,0 ,RT,Avidity
+K328A,>0.46%,0 ,RT,Avidity
+A329F,>0.46%,0 ,RT,Avidity
+F330C,>0.46%,0 ,RT,Avidity
+C332T,>0.46%,0 ,RT,Avidity
+K333I,>0.46%,0 ,RT,Avidity
+Q334L,>0.46%,0 ,RT,Avidity
+Y335N,>0.46%,0 ,RT,Avidity
+L336V,>0.46%,0 ,RT,Avidity
+N337T,>0.46%,0 ,RT,Avidity
+L338D,>0.46%,0 ,RT,Avidity
+Y339A,>0.46%,0 ,RT,Avidity
+P340G,>0.46%,0 ,RT,Avidity
+V341T,>0.46%,0 ,RT,Avidity
+Q344S,>0.46%,0 ,RT,Avidity
+L145[n.d.],>0.46%,0 ,RT,Avidity
+R167[n.d.],>0.46%,0 ,RT,Avidity
+L179[n.d.],>0.46%,0 ,RT,Avidity
+R242[n.d.],>0.46%,0 ,RT,Avidity
+G292[n.d.],>0.46%,0 ,RT,Avidity
+L308[n.d.],>0.46%,0 ,RT,Avidity
+M309[n.d.],>0.46%,0 ,RT,Avidity
+F323[n.d.],>0.46%,0 ,RT,Avidity
+Y327[n.d.],>0.46%,0 ,RT,Avidity
+C332*,>0.46%,0 ,RT,Avidity
+I121IS,>0.46%,0 ,RT,Avidity
+Q149KQ,>0.46%,0 ,RT,Avidity
+G174[n.d.],>0.46%,0 ,RT,Avidity
+A186[n.d.],>0.46%,0 ,RT,Avidity
+Y257*,>0.46%,33 ,RT,Avidity
+I169[n.d.],>0.46%,33 ,RT,Avidity
+R192[n.d.],>0.46%,33 ,RT,Avidity
+S185ST,>0.46%,0 ,RT,Avidity
+Mutation,<0.46%,<0.46_%,SHB,Avidity
+T189I,<0.46%,4,SHB,Avidity
+V177L,<0.46%,16,SHB,Avidity
+T118A,<0.46%,4,SHB,Avidity
+T125M,<0.46%,8,SHB,Avidity
+Q54R,<0.46%,0,SHB,Avidity
+I150F,<0.46%,0,SHB,Avidity
+R169V,<0.46%,0,SHB,Avidity
+F170S,<0.46%,0,SHB,Avidity
+F183I,<0.46%,0,SHB,Avidity
+P203L,<0.46%,0,SHB,Avidity
+G185R,<0.46%,4,SHB,Avidity
+S207R,<0.46%,0,SHB,Avidity
+F93S,<0.46%,0,SHB,Avidity
+R122K,<0.46%,0,SHB,Avidity
+M133T,<0.46%,0,SHB,Avidity
+G159A,<0.46%,0,SHB,Avidity
+S204N,<0.46%,0,SHB,Avidity
+F220L,<0.46%,0,SHB,Avidity
+S31N,<0.46%,4,SHB,Avidity
+T127A,<0.46%,4,SHB,Avidity
+K160N,<0.46%,4,SHB,Avidity
+Q101H,<0.46%,4,SHB,Avidity
+I208T,<0.46%,4,SHB,Avidity
+P217L,<0.46%,4,SHB,Avidity
+C221Y,<0.46%,4,SHB,Avidity
+S207N,<0.46%,0,SHB,Avidity
+L216,<0.46%,4,SHB,Avidity
+Q30K,<0.46%,8,SHB,Avidity
+T57I,<0.46%,4,SHB,Avidity
+S113A,<0.46%,4,SHB,Avidity
+T127P,<0.46%,4,SHB,Avidity
+T127L,<0.46%,4,SHB,Avidity
+G145R,<0.46%,4,SHB,Avidity
+V224A,<0.46%,4,SHB,Avidity
+A128V,<0.46%,88,SHB,Avidity
+T118V,<0.46%,80,SHB,Avidity
+S154*,<0.46%,4,SHB,Avidity
+K141[n.d.],<0.46%,4,SHB,Avidity
+T118[n.d.],<0.46%,4,SHB,Avidity
+S117[n.d.],<0.46%,4,SHB,Avidity
+C137[n.d.],<0.46%,4,SHB,Avidity
+G159[n.d.],<0.46%,4,SHB,Avidity
+F170[n.d.],<0.46%,4,SHB,Avidity
+S171[n.d.],<0.46%,0,SHB,Avidity
+W182*,<0.46%,0,SHB,Avidity
+A166[n.d.],<0.46%,4,SHB,Avidity
+P178[n.d.],<0.46%,4,SHB,Avidity
+F161[n.d.],<0.46%,0,SHB,Avidity
+F183[n.d.],<0.46%,0,SHB,Avidity
+V177LV,<0.46%,4,SHB,Avidity
+Mutation,>0.46%,>0.46_%,SHB,Avidity
+T189I,>0.46%,67 ,SHB,Avidity
+V177L,>0.46%,0 ,SHB,Avidity
+T118A,>0.46%,33 ,SHB,Avidity
+T125M,>0.46%,0 ,SHB,Avidity
+Q54R,>0.46%,33 ,SHB,Avidity
+I150F,>0.46%,33 ,SHB,Avidity
+R169V,>0.46%,33 ,SHB,Avidity
+F170S,>0.46%,33 ,SHB,Avidity
+F183I,>0.46%,33 ,SHB,Avidity
+P203L,>0.46%,33 ,SHB,Avidity
+G185R,>0.46%,0 ,SHB,Avidity
+S207R,>0.46%,33 ,SHB,Avidity
+F93S,>0.46%,33 ,SHB,Avidity
+R122K,>0.46%,33 ,SHB,Avidity
+M133T,>0.46%,33 ,SHB,Avidity
+G159A,>0.46%,33 ,SHB,Avidity
+S204N,>0.46%,33 ,SHB,Avidity
+F220L,>0.46%,33 ,SHB,Avidity
+S31N,>0.46%,0 ,SHB,Avidity
+T127A,>0.46%,0 ,SHB,Avidity
+K160N,>0.46%,0 ,SHB,Avidity
+Q101H,>0.46%,0 ,SHB,Avidity
+I208T,>0.46%,0 ,SHB,Avidity
+P217L,>0.46%,0 ,SHB,Avidity
+C221Y,>0.46%,0 ,SHB,Avidity
+S207N,>0.46%,0 ,SHB,Avidity
+L216,>0.46%,0 ,SHB,Avidity
+Q30K,>0.46%,33 ,SHB,Avidity
+T57I,>0.46%,0 ,SHB,Avidity
+S113A,>0.46%,0 ,SHB,Avidity
+T127P,>0.46%,0 ,SHB,Avidity
+T127L,>0.46%,0 ,SHB,Avidity
+G145R,>0.46%,0 ,SHB,Avidity
+V224A,>0.46%,0 ,SHB,Avidity
+A128V,>0.46%,67 ,SHB,Avidity
+T118V,>0.46%,67 ,SHB,Avidity
+S154*,>0.46%,0 ,SHB,Avidity
+K141[n.d.],>0.46%,0 ,SHB,Avidity
+T118[n.d.],>0.46%,0 ,SHB,Avidity
+S117[n.d.],>0.46%,0 ,SHB,Avidity
+C137[n.d.],>0.46%,0 ,SHB,Avidity
+G159[n.d.],>0.46%,0 ,SHB,Avidity
+F170[n.d.],>0.46%,0 ,SHB,Avidity
+S171[n.d.],>0.46%,0 ,SHB,Avidity
+W182*,>0.46%,33 ,SHB,Avidity
+A166[n.d.],>0.46%,0 ,SHB,Avidity
+P178[n.d.],>0.46%,0 ,SHB,Avidity
+F161[n.d.],>0.46%,33 ,SHB,Avidity
+F183[n.d.],>0.46%,33 ,SHB,Avidity
+V177LV,>0.46%,0 ,SHB,Avidity
+Mutation,<0.46%,<0.46_%,Pre_Core,Avidity
+W28*,<0.46%,23 ,Pre_Core,Avidity
+G29D,<0.46%,19 ,Pre_Core,Avidity
+S11C,<0.46%,0 ,Pre_Core,Avidity
+C12R,<0.46%,0 ,Pre_Core,Avidity
+P15R,<0.46%,3 ,Pre_Core,Avidity
+L22M,<0.46%,3 ,Pre_Core,Avidity
+S11F,<0.46%,16 ,Pre_Core,Avidity
+Mutation,>0.46%,>0.46_%,Pre_Core,Avidity
+W28*,>0.46%,100,Pre_Core,Avidity
+G29D,>0.46%,50,Pre_Core,Avidity
+S11C,>0.46%,25,Pre_Core,Avidity
+C12R,>0.46%,25,Pre_Core,Avidity
+P15R,>0.46%,0,Pre_Core,Avidity
+L22M,>0.46%,0,Pre_Core,Avidity
+S11F,>0.46%,0,Pre_Core,Avidity
+Mutation,<0.46%,<0.46_%,Core,Avidity
+T12S,<0.46%,3 ,Core,Avidity
+S21T,<0.46%,3 ,Core,Avidity
+P79Q,<0.46%,6 ,Core,Avidity
+E113Q,<0.46%,10 ,Core,Avidity
+N74A,<0.46%,0 ,Core,Avidity
+S35A,<0.46%,6 ,Core,Avidity
+N74T,<0.46%,6 ,Core,Avidity
+A36P,<0.46%,0 ,Core,Avidity
+L31F,<0.46%,3 ,Core,Avidity
+A11D,<0.46%,0 ,Core,Avidity
+L60I,<0.46%,3 ,Core,Avidity
+R28Q,<0.46%,0 ,Core,Avidity
+I59V,<0.46%,3 ,Core,Avidity
+A34P,<0.46%,3 ,Core,Avidity
+D22E,<0.46%,3 ,Core,Avidity
+E64D,<0.46%,3 ,Core,Avidity
+I59F,<0.46%,0 ,Core,Avidity
+S21Q,<0.46%,0 ,Core,Avidity
+S49T,<0.46%,0 ,Core,Avidity
+Y38F,<0.46%,0 ,Core,Avidity
+A131P,<0.46%,3 ,Core,Avidity
+S106F,<0.46%,3 ,Core,Avidity
+A41G,<0.46%,0 ,Core,Avidity
+N92H,<0.46%,0 ,Core,Avidity
+L119F,<0.46%,3 ,Core,Avidity
+V120G,<0.46%,3 ,Core,Avidity
+D153,<0.46%,6 ,Core,Avidity
+R154,<0.46%,23 ,Core,Avidity
+A11G,<0.46%,3 ,Core,Avidity
+E43K,<0.46%,3 ,Core,Avidity
+S21F,<0.46%,3 ,Core,Avidity
+C61W,<0.46%,3 ,Core,Avidity
+T12I,<0.46%,3 ,Core,Avidity
+I126V,<0.46%,3 ,Core,Avidity
+V85E,<0.46%,3 ,Core,Avidity
+L100R,<0.46%,3 ,Core,Avidity
+R127G,<0.46%,3 ,Core,Avidity
+E113K,<0.46%,3 ,Core,Avidity
+P138R,<0.46%,3 ,Core,Avidity
+R127S,<0.46%,3 ,Core,Avidity
+I139S,<0.46%,3 ,Core,Avidity
+L140F,<0.46%,3 ,Core,Avidity
+R154Q,<0.46%,3 ,Core,Avidity
+R160K,<0.46%,3 ,Core,Avidity
+N74V,<0.46%,87 ,Core,Avidity
+L116I,<0.46%,90 ,Core,Avidity
+E40D,<0.46%,10 ,Core,Avidity
+W102G,<0.46%,10 ,Core,Avidity
+R159K,<0.46%,10 ,Core,Avidity
+N74G,<0.46%,6 ,Core,Avidity
+A80T,<0.46%,6 ,Core,Avidity
+E77Q,<0.46%,3 ,Core,Avidity
+L84Q,<0.46%,3 ,Core,Avidity
+I139F,<0.46%,3 ,Core,Avidity
+R112K,<0.46%,3 ,Core,Avidity
+G155S,<0.46%,3 ,Core,Avidity
+L84Q,<0.46%,3 ,Core,Avidity
+I139F,<0.46%,3 ,Core,Avidity
+D153G,<0.46%,16 ,Core,Avidity
+N87S,<0.46%,100 ,Core,Avidity
+I97F,<0.46%,100 ,Core,Avidity
+W125*LW,<0.46%,3 ,Core,Avidity
+I126IS,<0.46%,3 ,Core,Avidity
+R152QR,<0.46%,3 ,Core,Avidity
+L140[n.d.],<0.46%,6 ,Core,Avidity
+E40*,<0.46%,10 ,Core,Avidity
+L140*,<0.46%,10 ,Core,Avidity
+T142IT,<0.46%,0 ,Core,Avidity
+S21*,<0.46%,10 ,Core,Avidity
+Mutation,>0.46%,>0.46_%,Core,Avidity
+T12S,>0.46%,75,Core,Avidity
+S21T,>0.46%,25,Core,Avidity
+P79Q,>0.46%,0,Core,Avidity
+E113Q,>0.46%,25,Core,Avidity
+N74A,>0.46%,75,Core,Avidity
+S35A,>0.46%,0,Core,Avidity
+N74T,>0.46%,0,Core,Avidity
+A36P,>0.46%,25,Core,Avidity
+L31F,>0.46%,0,Core,Avidity
+A11D,>0.46%,25,Core,Avidity
+L60I,>0.46%,0,Core,Avidity
+R28Q,>0.46%,25,Core,Avidity
+I59V,>0.46%,0,Core,Avidity
+A34P,>0.46%,0,Core,Avidity
+D22E,>0.46%,0,Core,Avidity
+E64D,>0.46%,0,Core,Avidity
+I59F,>0.46%,25,Core,Avidity
+S21Q,>0.46%,25,Core,Avidity
+S49T,>0.46%,25,Core,Avidity
+Y38F,>0.46%,25,Core,Avidity
+A131P,>0.46%,0,Core,Avidity
+S106F,>0.46%,0,Core,Avidity
+A41G,>0.46%,25,Core,Avidity
+N92H,>0.46%,25,Core,Avidity
+L119F,>0.46%,0,Core,Avidity
+V120G,>0.46%,0,Core,Avidity
+D153,>0.46%,25,Core,Avidity
+R154,>0.46%,25,Core,Avidity
+A11G,>0.46%,0,Core,Avidity
+E43K,>0.46%,0,Core,Avidity
+S21F,>0.46%,0,Core,Avidity
+C61W,>0.46%,0,Core,Avidity
+T12I,>0.46%,0,Core,Avidity
+I126V,>0.46%,0,Core,Avidity
+V85E,>0.46%,0,Core,Avidity
+L100R,>0.46%,0,Core,Avidity
+R127G,>0.46%,0,Core,Avidity
+E113K,>0.46%,0,Core,Avidity
+P138R,>0.46%,0,Core,Avidity
+R127S,>0.46%,0,Core,Avidity
+I139S,>0.46%,0,Core,Avidity
+L140F,>0.46%,0,Core,Avidity
+R154Q,>0.46%,0,Core,Avidity
+R160K,>0.46%,0,Core,Avidity
+N74V,>0.46%,25,Core,Avidity
+L116I,>0.46%,50,Core,Avidity
+E40D,>0.46%,25,Core,Avidity
+W102G,>0.46%,0,Core,Avidity
+R159K,>0.46%,0,Core,Avidity
+N74G,>0.46%,0,Core,Avidity
+A80T,>0.46%,0,Core,Avidity
+E77Q,>0.46%,25,Core,Avidity
+L84Q,>0.46%,25,Core,Avidity
+I139F,>0.46%,25,Core,Avidity
+R112K,>0.46%,25,Core,Avidity
+G155S,>0.46%,25,Core,Avidity
+L84Q,>0.46%,25,Core,Avidity
+I139F,>0.46%,25,Core,Avidity
+D153G,>0.46%,0,Core,Avidity
+N87S,>0.46%,100,Core,Avidity
+I97F,>0.46%,100,Core,Avidity
+W125*LW,>0.46%,0,Core,Avidity
+I126IS,>0.46%,0,Core,Avidity
+R152QR,>0.46%,0,Core,Avidity
+L140[n.d.],>0.46%,0,Core,Avidity
+E40*,>0.46%,50,Core,Avidity
+L140*,>0.46%,25,Core,Avidity
+T142IT,>0.46%,25,Core,Avidity
+S21*,>0.46%,50,Core,Avidity
