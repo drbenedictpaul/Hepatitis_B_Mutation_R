@@ -2,6 +2,10 @@
     "path": "/mnt/chromeos/GoogleDrive/SharedWithMe/81201/Data_Analytics_R/HBV_R/HBV_R",
     "sortOrder": [
         {
+            "columnIndex": 1,
+            "ascending": true
+        },
+        {
             "columnIndex": 4,
             "ascending": false
         },
